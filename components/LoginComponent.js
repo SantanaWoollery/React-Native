@@ -6,7 +6,7 @@ import * as ImagePicker from 'expo-image-picker';
 import * as Permissions from 'expo-permissions';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 import { baseUrl } from '../shared/baseUrl';
-import * as ImageManipulator from 'expo-image-manipulator'
+import * as ImageManipulator from 'expo-image-manipulator';
 
 class LoginTab extends Component {
 
